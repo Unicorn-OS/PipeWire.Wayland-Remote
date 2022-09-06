@@ -1,6 +1,6 @@
 # PipeWire.Wayland-Remote
 sch:
-- https://www.google.com/search?q=wayland+pipewire+screen+sharing
+- https://www.google.com/search?q=wayland+screen+sharing+pipewire | https://www.google.com/search?q=wayland+pipewire+screen+sharing
 - https://www.youtube.com/c/BrodieRobertson/search?query=pipewire
 
 relation:
